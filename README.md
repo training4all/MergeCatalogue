@@ -15,7 +15,7 @@ For more detailed rules, you can refer to ReadMe at https://github.com/tosumitag
      $  git clone --single-branch --branch develop https://github.com/training4all/MergeCatalogue.git
      $  cd MergeCatalogue
  ```
-- Open solution either using VS or VS Code, whatever you prefer.
+- Open solution file 'Catalogue.sln' either using VS or VS Code, whatever you prefer.
 - Build the solution and once successfully build, run the app.
 - If you can see the console window asking for '**Enter Input folder path**' that means you have successfully cloned and setup the project.
 - Final **'result_output.csv '** will be created inside output folder, whose path is configurable under **'Constants.cs'**, by default it's set to 
