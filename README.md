@@ -10,7 +10,11 @@ For more detailed rules, you can refer to ReadMe at https://github.com/tosumitag
 # Installation
 - I have build the solution as Console App using .Net Core 3.1 Framework.
 - IDE used is Visual Studio 2019 and OS is Windows 10 Pro.
-- To test the app locally, simple clone repo from **https://github.com/training4all/Catalogues.git**
+- To test the app locally, simple clone repo and switch to develop branch
+ ```sh
+     $  git clone --single-branch --branch develop https://github.com/training4all/MergeCatalogue.git
+     $  cd MergeCatalogue
+ ```
 - Open solution either using VS or VS Code, whatever you prefer.
 - Build the solution and once successfully build, run the app.
 - If you can see the console window asking for '**Enter Input folder path**' that means you have successfully cloned and setup the project.
